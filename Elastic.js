@@ -14,6 +14,9 @@ class Elastic{
         this.elastic.bodyB = null;
     }
 
+   
+
+
   display(){
     push();
     strokeWeight(3);
